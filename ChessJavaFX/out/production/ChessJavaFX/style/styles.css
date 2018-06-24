@@ -1,0 +1,30 @@
+.chess-space {
+	-fx-min-height:  100px;
+	-fx-min-width:   100px;
+	-fx-pref-height: 100px;
+	-fx-pref-width:  100px;
+	-fx-max-height:  100px;
+	-fx-max-width:   100px;
+
+	-fx-background-radius: 0em;
+}
+
+.chess-space-white {
+	-fx-background-color: #ffffff;
+}
+
+.chess-space-black {
+	-fx-background-color: #7682de;
+}
+
+.chess-space-white-mid {
+	-fx-background-color: #fcf6ff;
+}
+
+.chess-space-black-mid {
+	-fx-background-color: #de748d;
+}
+
+.chess-space-active {
+	-fx-background-color: #ffe10a;
+}
